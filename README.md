@@ -22,8 +22,8 @@ cd StreamlitApp_RAG_n8n
 3. Update your **WEBHOOK N8N**.
 
 Example:
-```toml
-[secrets]
+```main.py
+[configuration]
 WEBHOOK_URL = Your webhook from n8n
 ```
 
